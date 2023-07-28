@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e174528.css",
+    "main.js": "/static/js/main.1546ea98.js",
+    "static/media/Circuit Board.svg": "/static/media/Circuit Board.f2d277d24bcda77f247a.svg",
+    "static/media/primeicons.svg": "/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/gas-station-svgrepo-com.png": "/static/media/gas-station-svgrepo-com.fe9b2a3a20f8dfbb2bab.png",
+    "static/media/speedometer-svgrepo-com.png": "/static/media/speedometer-svgrepo-com.3d3e11dca4fb19c7122f.png",
+    "static/media/car-repair-car-svgrepo-com.png": "/static/media/car-repair-car-svgrepo-com.d1fd53b117a2fe689c92.png",
+    "static/media/weekly-calendar-day-svgrepo-com.png": "/static/media/weekly-calendar-day-svgrepo-com.42ba402fbabe6d47b00f.png",
+    "static/media/stockchart-svgrepo-com.png": "/static/media/stockchart-svgrepo-com.1cdb31264b2321723ea0.png",
+    "static/media/gas-station-svgrepo-com-2.png": "/static/media/gas-station-svgrepo-com-2.437443c14be425d679f7.png",
+    "static/media/chart-graphic-svgrepo-com.png": "/static/media/chart-graphic-svgrepo-com.be3ad413e82087857b55.png",
+    "static/media/bars-chart-stand-svgrepo-com.png": "/static/media/bars-chart-stand-svgrepo-com.2dbd2f61b2bfb94aa3e0.png",
+    "static/media/laptop-document-svgrepo-com (1).png": "/static/media/laptop-document-svgrepo-com (1).2b29eb89ebcac8d039d5.png",
+    "static/media/chart-bar-chart-svgrepo-com.png": "/static/media/chart-bar-chart-svgrepo-com.dc61ab4201c54901d9d0.png",
+    "static/media/trophy-svgrepo-com.png": "/static/media/trophy-svgrepo-com.5eb9bb077a1fb234ad9a.png",
+    "static/media/manager-boss-svgrepo-com.png": "/static/media/manager-boss-svgrepo-com.5054f7b9096fcda43cf5.png",
+    "static/media/primeicons.eot": "/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/steelTank.jpeg": "/static/media/steelTank.c00710e63470941a3c94.jpeg",
+    "static/media/IMG_6843.png": "/static/media/IMG_6843.c1a2f78bc8e2d344a65e.png",
+    "static/media/monitoring-seo-and-web-svgrepo-com.png": "/static/media/monitoring-seo-and-web-svgrepo-com.1080ffea5bfc095d9cd7.png",
+    "static/media/primeicons.woff2": "/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/color.png": "/static/media/color.6441e63a57ccc5105bad.png",
+    "static/media/Animated Shape-3.svg": "/static/media/Animated Shape-3.598e664dd38eb4df83aa.svg",
+    "index.html": "/index.html",
+    "main.5e174528.css.map": "/static/css/main.5e174528.css.map",
+    "main.1546ea98.js.map": "/static/js/main.1546ea98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e174528.css",
+    "static/js/main.1546ea98.js"
+  ]
+}
